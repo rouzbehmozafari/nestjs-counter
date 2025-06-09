@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/rouzbehmozafari/nestjs-counter) Simple counter Server.
+Simple counter Server.
 
 ## Project setup
 
